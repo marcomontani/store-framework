@@ -5,7 +5,7 @@
 
   "search-result-layout": {
     "blocks": [
-       "search-result-layout.desktop"
+       "search-result-layout.desktop" 
     ]
  },
  "search-result-layout.desktop" : {

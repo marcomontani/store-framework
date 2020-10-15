@@ -150,6 +150,11 @@
           }
     },
 
+    "vtex.menu@2.x:submenu#electronics" : {
+        "children": [
+            "vtex.menu@2.x:menu#electronics"
+        ]
+    },
 
     "menu-item#electronics" : {
         "props": {
@@ -165,12 +170,6 @@
           },
         "blocks": [
             "vtex.menu@2.x:submenu#electronics"
-        ]
-    },
-
-    "vtex.menu@2.x:submenu#electronics" : {
-        "children": [
-            "vtex.menu@2.x:menu#electronics"
         ]
     },
 
@@ -207,7 +206,7 @@
               "href": "#",
               "noFollow": false,
               "tagTitle": "Shop",
-              "text": "Cameras"
+              "text": "Laptops"
             }
           }
     },
@@ -220,7 +219,7 @@
               "href": "#",
               "noFollow": false,
               "tagTitle": "Shop",
-              "text": "Cameras"
+              "text": "Tvs"
             }
           }
     }

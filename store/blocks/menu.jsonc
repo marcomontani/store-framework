@@ -10,6 +10,17 @@
         }
     },
     "menu-item#major-appliances": {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "Shop"
+            }
+          },
         "blocks": [ "vtex.menu@2.x:submenu#major" ]
     },
     "vtex.menu@2.x:submenu#major": {

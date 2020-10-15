@@ -18,7 +18,7 @@
               "href": "#",
               "noFollow": false,
               "tagTitle": "Shop",
-              "text": "Shop"
+              "text": "Major"
             }
           },
         "blocks": [ "vtex.menu@2.x:submenu#major" ]
@@ -38,7 +38,60 @@
             "orientation": "vertical"
         }
     },
+
+    "menu-item#refrigerators": {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "refrigerators"
+            }
+          }
+    },
+    "menu-item#ovens": {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "ovens"
+            }
+          }
+    },
+    "menu-item#washers": {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "washers"
+            }
+          }
+    },
+
+
     "menu-item#small-appliances": {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "Minor"
+            }
+          },
         "blocks": [ "vtex.menu@2.x:submenu#small" ]
     },
     "vtex.menu@2.x:submenu#small": {
@@ -57,7 +110,59 @@
         }
     },
 
+    "menu-item#mixers" : {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "Mixers"
+            }
+          }
+    },
+    "menu-item#toasters" : {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "Toasters"
+            }
+          }
+    },
+    "menu-item#coffee" : {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "coffee"
+            }
+          }
+    },
+
+
     "menu-item#electronics" : {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "Elettronics"
+            }
+          },
         "blocks": [
             "vtex.menu@2.x:submenu#electronics"
         ]
@@ -79,5 +184,45 @@
         "props": {
             "orientation": "vertical"
         } 
+    },
+    "menu-item#cameras" : {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "Cameras"
+            }
+          }
+    },
+    "menu-item#laptops" : {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "Cameras"
+            }
+          }
+    },
+    "menu-item#tvs" : {
+        "props": {
+            "type": "custom",
+            "highlight": false,
+            "itemProps": {
+              "type": "internal",
+              "href": "#",
+              "noFollow": false,
+              "tagTitle": "Shop",
+              "text": "Cameras"
+            }
+          }
     }
+
 }

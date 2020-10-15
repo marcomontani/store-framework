@@ -63,7 +63,7 @@
         ],
         "props": {
             "orientation": "vertical"
-        }
+        } 
     }
 
 }
